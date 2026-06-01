@@ -1,0 +1,6 @@
+{
+  "name": "UltraEdit AI",
+  "description": "Professional Android video editing application with AI script writer, multi-track timeline concepts, and modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
